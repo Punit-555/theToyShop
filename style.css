@@ -1,0 +1,75 @@
+body{
+ 
+   margin: 0%;
+    padding: 25px;
+    background-color: white;
+    color: black;
+    font-size: 25px;
+}
+image{
+    margin-top: 0%;
+}
+
+   /* Navbar Menu */
+
+.navbar{
+       padding-left: 25%;
+     font-family: 'Cedarville Cursive', cursive;
+font-family: 'Cookie', cursive;
+}
+
+
+h1{
+    margin-top: 3%;
+    text-align: center;
+    color: green;
+    line-height: 2.5rem;
+    position: fixed;
+}
+h2,h3{
+    margin-top: 170px;
+    text-align: center;
+    color: green;
+    font-family: cursive;
+}
+.boy{
+    margin-top: 5%;
+    margin-left: 18%;
+    border-radius: 100%;
+    float: left;
+}
+.mid-section{
+    height: 430px;
+    background-color:lightsteelblue;
+   
+}
+p{
+    padding-top: 8%;
+    margin-top: 7%;
+}
+
+.carousel-item
+{
+    height: 500px;
+}
+
+.head{
+    margin-top: 5%;
+}
+
+.about{
+    background-color: lightyellow;
+}
+.dark-mode{
+    background-color: black;
+    color: greenyellow;
+    
+}
+
+.dark{
+    margin-top: 0%;
+    width: 80px;
+    background-color: darkgray;
+    color: green;
+    border-radius: 100%;
+}
